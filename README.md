@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @jcanelis
-- 👀 I’m interested in ... computers
-- 🌱 I’m currently learning ... internets
-- 💞️ I’m looking to collaborate on ... earth
-- 📫 How to reach me ... you up?
+- 
