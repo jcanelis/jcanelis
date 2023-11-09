@@ -1,1 +1,3 @@
-- 👋
+- 👋 Hi, I'm a product [designer](https://johnnyc.xyz/design/) living in NYC.
+- I make [TrackQueen](https://trackqueen.app/).
+- Reach out on [LinkedIn](https://www.linkedin.com/in/johncanelis/).
