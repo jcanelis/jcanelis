@@ -1,3 +1,4 @@
 - 👋 Hi, I'm a product designer living in NYC.
 - I make [TrackQueen](https://trackqueen.app/) and work at [Roam](https://www.withroam.com/).
 - Reach out on [LinkedIn](https://www.linkedin.com/in/johncanelis/).
+- Some design samples can be [seen here](https://design.johncanelis.com/). 👨‍🍳 🎨
