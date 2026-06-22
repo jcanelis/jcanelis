@@ -1,4 +1,4 @@
-- I'm a product designer at [Roam](https://www.withroam.com/) and make [TrackQueen](https://trackqueen.app/).
+- I'm a product designer at [PermitFlow](https://www.permitflow.com/) and make [TrackQueen](https://trackqueen.app/).
 - Reach out on [LinkedIn](https://www.linkedin.com/in/johncanelis/).
 - Design projects can be [seen here](https://design.johncanelis.com/). 👨‍🍳 🎨
 - Here's some [random stuff](https://johnnyc.xyz/camera-roll/) I like.
